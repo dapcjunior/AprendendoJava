@@ -1,5 +1,5 @@
 # Aprendendo a programar em Java
- Repositorio criado durante o estAprendizado da linguagem de programação Java Com o livro java como Programar de Paul & Harvey Deitel entre outros.
+ Repositorio criado durante o Aprendizado da linguagem de programação Java Com o livro java como Programar de Paul & Harvey Deitel entre outros.
 
  Neste repositóri oserá postado todos os exercicios de java que fizer.
 
