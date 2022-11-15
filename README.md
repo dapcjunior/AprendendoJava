@@ -5,4 +5,7 @@
 
  Este repositorio foi criado em 01 de Outubro de 2022
  
- cada exercicios e testes terá uma descrição esta ediçao foi criada em 14 de Novembro de 2022
+ cada exercicios e testes terá uma descrição
+# Ex: exercicio do livro java como programar pagina 22
+
+ esta ediçao foi criada em 14 de Novembro de 2022
